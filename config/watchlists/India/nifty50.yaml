@@ -1,0 +1,6 @@
+# config/watchlists/nifty50.yaml
+symbols:
+  - tradingsymbol: RELIANCE-EQ
+    symboltoken: "2885"
+  - tradingsymbol: HDFCBANK-EQ
+    symboltoken: "1333"

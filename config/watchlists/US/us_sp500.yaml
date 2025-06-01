@@ -1,0 +1,6 @@
+# config/watchlists/US/us_sp500.yaml
+symbols:
+  - tradingsymbol: AAPL
+    symboltoken: "AAPL"  # Adjust for US broker (e.g., Alpaca)
+  - tradingsymbol: MSFT
+    symboltoken: "MSFT"

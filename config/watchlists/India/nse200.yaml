@@ -1,0 +1,6 @@
+# config/watchlists/nse200.yaml
+symbols:
+  - tradingsymbol: SBIN-EQ
+    symboltoken: "3045"
+  - tradingsymbol: TCS-EQ
+    symboltoken: "11536"

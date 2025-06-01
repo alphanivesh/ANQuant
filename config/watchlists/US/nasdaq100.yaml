@@ -1,0 +1,6 @@
+# config/watchlists/US/nasdaq100.yaml
+symbols:
+  - tradingsymbol: TSLA
+    symboltoken: "TSLA"
+  - tradingsymbol: NVDA
+    symboltoken: "NVDA"

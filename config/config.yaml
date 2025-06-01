@@ -1,0 +1,43 @@
+# config/config.yaml
+broker:
+  name: angelone
+  credentials:
+    api_key: mCMg8PVs
+    client_code: NEHR4113
+    pin: 0786
+    totp_token: LTOZ3GSPPJ46AT27MEAD2U6PI4
+logging:
+  level: DEBUG
+  rotation: 10 MB
+  retention: 30 days
+redis:
+  host: localhost
+  port: 6379
+testing:
+  place_orders: false
+markets:
+  - name: NSE
+    watchlist_file: India/nse500.yaml  # Market-wide NSE 500 watchlist
+strategies:
+  - strategy_name: momentum
+    strategy_type: technical
+    sub_type: momentum
+    time_horizon: intraday
+    config:
+      reference_price: 800
+    watchlist_file: India/nse500.yaml  # Momentum on NSE 500
+  - strategy_name: moving_average_crossover
+    strategy_type: technical
+    sub_type: momentum
+    time_horizon: swing
+    config:
+      short_ma_length: 20
+      long_ma_length: 50
+    watchlist_file: India/nifty50.yaml  # NIFTY 50 for swing
+  - strategy_name: dividend_yield
+    strategy_type: fundamental
+    sub_type: value
+    time_horizon: positional
+    config:
+      min_dividend_yield: 5.0
+    watchlist_file: India/nifty50.yaml  # NIFTY 50 for positional

@@ -1,0 +1,7 @@
+# config/watchlists/nse500.yaml
+symbols:
+  - tradingsymbol: SBIN-EQ
+    symboltoken: "3045"
+  - tradingsymbol: RELIANCE-EQ
+    symboltoken: "2885"
+# In production, list all ~500 NSE 500 stocks or fetch dynamically
