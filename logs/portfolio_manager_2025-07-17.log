@@ -1,0 +1,350 @@
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 08:38:34 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 08:38:34 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:38:34 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 08:41:26 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 08:41:26 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:41:26 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:41:26 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:41:26 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 08:41:26 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 08:41:26 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:41:27 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:41:27 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:41:27 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 08:42:32 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 08:42:32 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:42:32 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:42:32 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:42:32 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 08:42:32 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 08:42:32 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:42:33 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:42:33 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:42:33 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 08:52:39 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 08:52:39 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:52:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 08:55:46 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 08:55:46 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:55:46 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:03:18 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:03:18 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:03:18 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:05:03 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:05:03 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:05:03 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:05:03 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:05:03 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:05:03 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:05:03 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:05:04 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:05:04 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:05:04 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:22:04 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:22:04 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:22:04 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:22:04 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:22:04 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:22:04 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:22:04 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:22:05 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:22:05 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:22:05 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:25:49 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:25:49 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:25:49 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:25:49 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:25:49 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:25:49 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:25:49 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:25:50 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:25:50 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:25:50 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:52:00 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:52:00 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:52:00 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:00 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:00 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:52:00 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:52:00 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:52:01 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:01 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:01 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:52:53 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:52:53 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:53 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 09:55:38 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 09:55:38 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:55:38 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:03:22 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:03:22 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:03:22 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:05:30 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:05:30 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:05:30 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:05:30 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:05:30 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:05:30 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:05:30 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:05:31 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:05:31 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:05:31 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:07:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:07:37 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:07:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:07:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:07:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:07:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:07:37 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:07:38 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:07:38 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:07:38 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:11:45 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:11:45 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:11:45 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:11:45 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:11:45 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:11:45 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:11:45 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:11:46 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:11:46 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:11:46 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:17:26 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:17:26 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:17:26 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:22:36 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:22:36 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:22:36 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:22:36 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:22:36 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:22:36 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:22:36 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:22:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:22:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:22:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:27:15 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:27:15 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:27:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:31:02 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:31:02 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:31:02 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:36:14 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:36:14 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:36:14 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:36:14 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:36:14 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:36:15 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:36:15 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:36:15 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:36:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:36:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:42:35 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:42:35 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:42:35 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:43:56 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:43:56 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:43:56 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:46:21 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:46:21 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:46:21 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:46:21 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:46:21 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:46:21 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:46:21 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:46:22 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:46:22 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:46:22 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:50:28 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:50:28 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:50:28 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 10:54:00 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 10:54:00 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:54:00 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:00:14 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:00:14 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:00:14 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:00:14 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:00:14 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:00:14 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:00:14 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:00:15 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:00:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:00:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:11:21 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:11:21 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:11:21 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:14:41 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:14:41 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:14:41 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:17:41 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:17:41 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:17:41 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:17:41 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:17:41 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:17:41 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:17:41 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:17:42 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:17:42 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:17:42 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:25:22 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:25:22 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:25:22 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:28:05 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:28:05 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:28:05 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:28:05 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:28:05 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:28:05 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:28:05 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:28:06 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:28:06 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:28:06 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 11:30:10 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 11:30:10 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:30:10 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 13:31:24 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 13:31:24 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:31:24 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:31:25 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 17
+2025-07-17 13:34:52 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\order_execution_engine_2025-07-17.log
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log, handler ID: 21
+2025-07-17 13:34:52 | INFO | src.anquant.py.util.logging | Logging initialized for portfolio_manager (type: general, file: D:\AlphaNivesh\ANQuant\logs\portfolio_manager_2025-07-17.log)
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:34:52 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\corporate_action_manager_2025-07-17.log

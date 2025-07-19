@@ -1,0 +1,66 @@
+# Core Broker APIs
+smartapi-python==1.5.5        # AngelOne Broker
+kiteconnect==5.0.1            # Zerodha Broker
+fyers-apiv3==3.1.0            # Fyers Broker
+
+# Data Handling
+pandas==2.2.3
+numpy==1.26.4
+
+# Time-based OTPs
+pyotp==2.9.0
+
+# Networking & Web
+requests==2.31.0             # Pinned to resolve fyers-apiv3 conflict
+websocket-client==1.6.1      # Stable version
+
+# Caching
+redis[hiredis]==5.0.8        # Redis client with performance parser
+fakeredis==2.23.5            # For testing Redis logic
+
+# Logging
+loguru==0.7.2                # Primary logging library
+
+# Encryption
+pycryptodome==3.20.0         # For secure credential handling
+
+# Config & Env Management
+pyyaml==6.0.2
+python-dotenv==1.0.1
+
+# Plotting
+matplotlib==3.9.2            # Pinned for stability
+
+# Testing
+pytest==8.3.3
+
+# Time Series DB (verify usage)
+influxdb-client==1.46.0      # Replace with prometheus-client==0.21.0 if unused
+
+# PostgreSQL
+psycopg2-binary==2.9.9       # For PostgreSQL DB access
+
+# Kafka
+confluent-kafka==2.5.3       # Kafka client for streaming
+
+# Security
+hvac==2.3.0                  # HashiCorp Vault for secrets
+
+#For building Rust components
+maturin
+
+#To run the async test
+pytest-asyncio==0.23.8
+
+# for technical indicators
+pandas_ta==0.3.14b0
+
+# web scraping in CorporateActionManager
+selenium==4.10.0  # Downgraded for compatibility
+webdriver-manager==4.0.1  # For managing Selenium browser drivers
+
+pyyaml
+hvac
+asyncpg
+asteval
+pydantic

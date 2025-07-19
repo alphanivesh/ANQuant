@@ -1,0 +1,10 @@
+D:\AlphaNivesh\ANQuant\src\rs\indicator\target\release\deps\rdkafka_sys-4c76cd730d252150.d: C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\lib.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\bindings.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\helpers.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\types.rs
+
+D:\AlphaNivesh\ANQuant\src\rs\indicator\target\release\deps\librdkafka_sys-4c76cd730d252150.rlib: C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\lib.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\bindings.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\helpers.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\types.rs
+
+D:\AlphaNivesh\ANQuant\src\rs\indicator\target\release\deps\librdkafka_sys-4c76cd730d252150.rmeta: C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\lib.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\bindings.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\helpers.rs C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\types.rs
+
+C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\lib.rs:
+C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\bindings.rs:
+C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\helpers.rs:
+C:\Users\hiits\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rdkafka-sys-4.9.0+2.10.0\src\types.rs:

@@ -1,0 +1,2 @@
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\strategy_manager_2025-07-19.log, handler ID: 17
+2025-07-19 20:18:39 | INFO | src.anquant.py.util.logging | Logging initialized for strategy_manager (type: strategy, file: D:\AlphaNivesh\ANQuant\logs\strategy_manager_2025-07-19.log)

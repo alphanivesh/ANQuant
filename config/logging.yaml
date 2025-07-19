@@ -1,0 +1,27 @@
+general:
+  directory: logs
+  filename_template: "{name}_{date}.log"
+  level: DEBUG
+  rotation: 10 MB
+  retention: 30 days
+  compression: zip
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {name} | {message}"
+  stdout_format: "<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level}</level> | <cyan>{name}</cyan> | <level>{message}</level>"
+messaging:
+  directory: logs
+  filename_template: "{name}_{date}.log"
+  level: TRACE
+  rotation: 10 MB
+  retention: 30 days
+  compression: zip
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {name} | {message}"
+  stdout_format: "<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level}</level> | <cyan>{name}</cyan> | <level>{message}</level>"
+kafka:
+  directory: logs
+  filename_template: "kafka/{name}_{date}.log"
+  level: TRACE
+  rotation: 10 MB
+  retention: 30 days
+  compression: zip
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {name} | {message}"
+  stdout_format: "<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level}</level> | <cyan>{name}</cyan> | <level>{message}</level>"

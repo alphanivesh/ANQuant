@@ -1,0 +1,5 @@
+Following softwares are needed to be installed for ANQuant to run
+
+(1) PostgreSQL
+(2) Kafka
+(3) Redis

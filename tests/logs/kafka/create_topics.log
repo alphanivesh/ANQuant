@@ -1,0 +1,3 @@
+[2025-07-14 11:07:27] [ERROR] topic=none Failed to create topics: 'code=TOPIC_ALREADY_EXISTS,val=36,str="Topic \'nse_ticks\' already exists'
+[2025-07-14 11:28:24] [DEBUG] topic=none Retrieved existing topics: signals, ohlcv_5min, trades, nse_ticks, ohlcv_1min, ohlcv_30min
+[2025-07-14 11:28:24] [INFO] topic=none No new topics to create; all topics already exist: signals, ohlcv_5min, trades, nse_ticks, ohlcv_1min, ohlcv_30min

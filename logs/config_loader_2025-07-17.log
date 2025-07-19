@@ -1,0 +1,175 @@
+2025-07-17 08:38:27 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 08:38:27 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 08:38:28 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:38:28 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:38:28 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 08:41:21 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 08:41:21 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 08:41:22 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:41:22 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:41:22 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 08:42:27 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 08:42:27 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 08:42:27 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:42:27 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:42:27 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 08:52:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 08:52:35 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 08:52:35 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:52:35 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:52:35 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 08:55:42 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 08:55:42 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 08:55:42 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:55:42 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 08:55:42 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:03:13 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:03:13 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:03:14 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:03:14 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:03:14 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:05:00 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:05:00 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:05:01 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:05:01 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:05:01 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:22:01 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:22:01 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:22:01 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:22:01 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:22:01 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:25:46 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:25:46 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:25:46 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:25:46 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:25:46 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:51:56 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:51:56 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:51:56 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:51:56 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:51:56 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:52:50 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:52:50 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:52:50 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:50 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:52:50 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 09:55:33 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 09:55:33 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 09:55:33 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:55:33 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 09:55:33 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:03:14 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:03:14 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:03:15 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:03:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:03:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:05:25 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:05:25 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:05:25 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:05:25 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:05:25 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:07:33 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:07:33 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:07:33 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:07:33 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:07:33 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:11:40 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:11:40 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:11:40 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:11:40 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:11:40 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:17:21 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:17:21 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:17:21 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:17:21 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:17:21 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:22:31 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:22:31 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:22:32 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:22:32 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:22:32 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:27:11 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:27:11 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:27:11 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:27:11 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:27:11 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:30:57 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:30:57 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:30:57 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:30:57 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:30:57 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:36:10 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:36:10 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:36:10 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:36:10 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:36:10 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:42:29 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:42:29 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:42:30 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:42:30 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:42:30 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:43:52 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:43:52 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:43:53 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:43:53 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:43:53 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:46:17 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:46:17 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:46:18 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:46:18 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:46:18 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:50:24 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:50:24 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:50:25 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:50:25 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:50:25 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 10:53:55 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 10:53:55 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 10:53:55 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:53:55 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 10:53:55 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:00:10 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:00:10 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:00:10 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:00:10 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:00:10 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:11:15 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:11:15 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:11:16 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:11:16 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:11:16 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:14:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:14:37 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:14:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:14:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:14:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:17:38 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:17:38 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:17:38 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:17:38 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:17:38 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:25:19 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:25:19 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:25:20 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:25:20 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:25:20 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:27:59 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:27:59 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:27:59 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:27:59 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:27:59 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 11:30:06 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 11:30:06 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 11:30:06 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:30:06 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 11:30:06 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 13:31:02 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 13:31:03 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 13:31:03 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:31:03 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:31:03 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log
+2025-07-17 13:34:47 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log, handler ID: 1
+2025-07-17 13:34:47 | INFO | src.anquant.py.util.logging | Logging initialized for config_loader (type: general, file: D:\AlphaNivesh\ANQuant\logs\config_loader_2025-07-17.log)
+2025-07-17 13:34:47 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:34:47 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-17 13:34:47 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-17.log

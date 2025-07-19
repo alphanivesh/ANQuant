@@ -1,0 +1,13 @@
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/cmake/RdKafka/RdKafkaConfig.cmake
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/cmake/RdKafka/RdKafkaConfigVersion.cmake
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/cmake/RdKafka/FindLZ4.cmake
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/cmake/RdKafka/RdKafkaTargets.cmake
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/cmake/RdKafka/RdKafkaTargets-release.cmake
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/share/licenses/librdkafka/LICENSES.txt
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/pkgconfig/rdkafka-static.pc
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/rdkafka.lib
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/include/librdkafka/rdkafka.h
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/include/librdkafka/rdkafka_mock.h
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/pkgconfig/rdkafka++-static.pc
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/lib/rdkafka++.lib
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/include/librdkafka/rdkafkacpp.h

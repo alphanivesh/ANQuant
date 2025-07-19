@@ -1,0 +1,10 @@
+^D:\ALPHANIVESH\ANQUANT\SRC\RS\MARKET_DATA\TARGET\DEBUG\BUILD\RDKAFKA-SYS-02A904115837ABF9\OUT\BUILD\CMAKEFILES\3EF982C1F93ED445D0058D6217CE107B\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

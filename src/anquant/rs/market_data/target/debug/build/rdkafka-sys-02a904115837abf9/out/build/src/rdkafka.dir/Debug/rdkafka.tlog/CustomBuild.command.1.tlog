@@ -1,0 +1,10 @@
+^C:\USERS\HIITS\.CARGO\REGISTRY\SRC\INDEX.CRATES.IO-1949CF8C6B5B557F\RDKAFKA-SYS-4.9.0+2.10.0\LIBRDKAFKA\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka -BD:/AlphaNivesh/ANQuant/src/rs/market_data/target/debug/build/rdkafka-sys-02a904115837abf9/out/build --check-stamp-file D:/AlphaNivesh/ANQuant/src/rs/market_data/target/debug/build/rdkafka-sys-02a904115837abf9/out/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

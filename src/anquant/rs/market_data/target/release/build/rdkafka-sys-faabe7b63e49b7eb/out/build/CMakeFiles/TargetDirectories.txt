@@ -1,0 +1,7 @@
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/INSTALL.dir
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/ALL_BUILD.dir
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/ZERO_CHECK.dir
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/src/CMakeFiles/rdkafka.dir
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/src/CMakeFiles/INSTALL.dir
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/src-cpp/CMakeFiles/rdkafka++.dir
+D:/AlphaNivesh/ANQuant/src/rs/market_data/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/src-cpp/CMakeFiles/INSTALL.dir

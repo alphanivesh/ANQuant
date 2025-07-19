@@ -1,0 +1,105 @@
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 18:55:23 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:05:37 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:08:34 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:16:03 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:23:26 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:42:39 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:43:48 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:53:02 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 19:59:59 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 20:10:09 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 20:13:11 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 20:18:35 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 22:56:15 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 22:56:15 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 22:56:15 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:56:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:56:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 22:58:38 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 22:58:38 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 22:58:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:58:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:58:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:18:28 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:18:28 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:18:29 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:18:29 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:18:29 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:24:04 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:24:04 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:24:05 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:05 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:05 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:24:46 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:26:48 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:32:37 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:47:25 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log, handler ID: 3
+2025-07-19 23:50:32 | INFO | src.anquant.py.util.logging | Logging initialized for database (type: general, file: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log)
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\kafka_client_2025-07-19.log

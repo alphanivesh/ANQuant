@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+                            Redis Server Start
+-------------------------------------------------------------------------------
+Role of Redis in ANQuant
+    Caching: Stores historical OHLCV data (symbol:ohlcv:1min), indicators (symbol:indicators:1min),
+              and positions (positions:RELIANCE-EQ) for low-latency access (<1ms).
+    Pub/Sub Messaging: Publishes real-time ticks (ticks:NSE:RELIANCE-EQ) and signals (signals:RELIANCE-EQ)
+              for components like StrategyEngine to consume.
+    TTL Management: Uses time-to-live (24 hours) for cached data to optimize memory usage.
+
+Run the below command on PowerShell
+    redis-server
+
+Port    : 6379
+Machine : localhost
+
+
+-------------------------------------------------------------------------------
+                           Running Redis using Docker
+-------------------------------------------------------------------------------
+docker run -d -p 6379:6379 redis
+redis-cli ping  # Should return PONG
+
+
+================================================================================
+
+
+-------------------------------------------------------------------------------
+                            Redis Insight Start (UI Tool for Redis)
+-------------------------------------------------------------------------------
+

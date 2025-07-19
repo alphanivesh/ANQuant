@@ -1,0 +1,9 @@
+2025-07-19 20:10:13 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\flexirule_validator_2025-07-19.log, handler ID: 13
+2025-07-19 20:10:13 | INFO | src.anquant.py.util.logging | Logging initialized for flexirule_validator (type: strategy, file: D:\AlphaNivesh\ANQuant\logs\flexirule_validator_2025-07-19.log)
+2025-07-19 20:13:15 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\flexirule_validator_2025-07-19.log, handler ID: 13
+2025-07-19 20:13:15 | INFO | src.anquant.py.util.logging | Logging initialized for flexirule_validator (type: strategy, file: D:\AlphaNivesh\ANQuant\logs\flexirule_validator_2025-07-19.log)
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\flexirule_validator_2025-07-19.log, handler ID: 13
+2025-07-19 20:18:39 | INFO | src.anquant.py.util.logging | Logging initialized for flexirule_validator (type: strategy, file: D:\AlphaNivesh\ANQuant\logs\flexirule_validator_2025-07-19.log)
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\rule_engine_2025-07-19.log

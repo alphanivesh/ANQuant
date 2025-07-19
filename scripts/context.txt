@@ -1,0 +1,13 @@
+Purpose of scripts/:
+
+    The scripts/ folder contains utilities for one-off or scheduled tasks
+    (e.g., pre-fetching OHLCV for config/markets/india/watchlists/master.yaml, corporate action fetching),
+    which are executed directly (e.g., python scripts/prefetch_historical_data.py) rather than imported as modules.
+    These scripts interact with the core application (src/py/core/, src/py/messaging/)
+    but don’t need to be part of the importable module structure.
+
+    A normal folder avoids unnecessary complexity (e.g., maintaining __init__.py) for scripts that don’t require package
+    functionality. It separates standalone utilities from the core application code (src/py/), which is organized as a
+    package (src/py/__init__.py) for modular imports.
+
+

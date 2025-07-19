@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\AlphaNivesh\ANQuant\src\rs\market_data\target\debug\build\rdkafka-sys-02a904115837abf9\out\build\CMakeFiles\43b0d0f3b974577137278dbc275da439\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BCEA577C-C158-393F-92EE-702F602B8583}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

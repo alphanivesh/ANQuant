@@ -1,0 +1,7 @@
+stocks:
+  - tradingsymbol: AAPL
+    exchange: NASDAQ
+  - tradingsymbol: MSFT
+    exchange: NASDAQ
+  - tradingsymbol: TSLA
+    exchange: NASDAQ

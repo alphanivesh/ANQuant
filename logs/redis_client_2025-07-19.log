@@ -1,0 +1,105 @@
+2025-07-19 18:55:20 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 18:55:20 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 18:55:23 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:05:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:05:35 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:05:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:08:33 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:08:33 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:08:34 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:16:01 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:16:01 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:16:03 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:23:23 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:23:23 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:23:26 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:42:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:42:37 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:42:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:43:47 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:43:47 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:43:48 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:53:01 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:53:01 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:53:02 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 19:59:58 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 19:59:58 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:59:59 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 20:10:08 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 20:10:08 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:10:09 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 20:13:09 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 20:13:09 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:13:11 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 20:18:33 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 20:18:33 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:35 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 22:56:13 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 22:56:13 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 22:56:14 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:56:15 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:56:15 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 22:58:34 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 22:58:34 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 22:58:38 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:58:38 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:58:38 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:18:18 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:18:18 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:18:28 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:18:28 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:18:28 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:24:03 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:24:03 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:24:04 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:04 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:04 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:24:45 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:24:45 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:46 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:26:47 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:26:47 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:26:48 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:32:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:32:35 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:32:37 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:47:24 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:47:24 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:47:25 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log
+2025-07-19 23:50:31 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log, handler ID: 1
+2025-07-19 23:50:31 | INFO | src.anquant.py.util.logging | Logging initialized for redis_client (type: messaging, file: D:\AlphaNivesh\ANQuant\logs\redis_client_2025-07-19.log)
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:50:32 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\database_2025-07-19.log

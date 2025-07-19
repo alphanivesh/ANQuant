@@ -1,0 +1,102 @@
+2025-07-19 18:55:26 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 18:55:26 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:05:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:05:39 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:05:40 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:05:40 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:05:40 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 19:08:35 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:08:35 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:08:36 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:08:36 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:08:36 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 19:16:06 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:16:06 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:16:06 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:16:06 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:16:06 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 19:23:29 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:23:29 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:23:29 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:23:29 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:23:29 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 19:42:42 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:42:42 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:42:42 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:42:42 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:42:42 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 19:43:49 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:43:49 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:43:49 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:43:49 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:43:49 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 19:53:05 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 19:53:05 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 19:53:05 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:53:05 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 19:53:05 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 20:00:01 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 20:00:01 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 20:00:01 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:00:01 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:00:01 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 20:10:12 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 20:10:12 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 20:10:12 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:10:12 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:10:12 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 20:13:14 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 20:13:14 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 20:13:14 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:13:14 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:13:14 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 20:18:37 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 20:18:37 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 20:18:38 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:38 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:38 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 22:56:17 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 22:56:17 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 22:56:17 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:56:17 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:56:17 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 22:58:41 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 22:58:41 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 22:58:44 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:58:44 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 22:58:44 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:18:33 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:18:33 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:18:34 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:18:34 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:18:34 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:24:07 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:24:07 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:24:07 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:07 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:07 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:24:47 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:24:47 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:24:48 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:48 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:24:48 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:26:49 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:26:49 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:26:49 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:26:49 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:26:49 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:32:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:32:39 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:32:40 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:32:40 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:32:40 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:47:28 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:47:28 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:47:28 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:47:28 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:47:28 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log
+2025-07-19 23:50:34 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log, handler ID: 7
+2025-07-19 23:50:34 | INFO | src.anquant.py.util.logging | Logging initialized for angelone (type: general, file: D:\AlphaNivesh\ANQuant\logs\angelone_2025-07-19.log)
+2025-07-19 23:50:35 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:50:35 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 23:50:35 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\market_data_engine_2025-07-19.log

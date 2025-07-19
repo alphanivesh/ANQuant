@@ -1,0 +1,132 @@
+global:
+###################################################################################################
+#                                 Logging Configurations                                         #
+###################################################################################################
+  logging_config: config/logging.yaml  # Reference to dedicated logging config
+###################################################################################################
+
+###################################################################################################
+#                                  Broker Configurations                                         #
+###################################################################################################
+  brokers:
+    active_brokers:
+      india:
+        - angelone
+      #usa:
+      #  - interactive_brokers
+    market: india
+###################################################################################################
+
+###################################################################################################
+#                                  Kafka Configurations                                          #
+###################################################################################################
+  kafka:
+    brokers: localhost:9092
+    topics:
+      india: nse_ticks
+      #nyse: nyse_ticks
+      ohlcv_1min: ohlcv_1min
+      ohlcv_5min: ohlcv_5min
+      ohlcv_15min: ohlcv_15min  # Added for timeframe flexibility
+      ohlcv_30min: ohlcv_30min
+      ohlcv_1hr: ohlcv_1hr  # Added for timeframe flexibility
+      signals: signals
+      trades: trades
+    nse_ticks_partitions: 8  # Supports up to 1000 stocks
+    #nyse_ticks_partitions: 8
+    ohlcv_1min_partitions: 4
+    ohlcv_5min_partitions: 4
+    ohlcv_15min_partitions: 4
+    ohlcv_30min_partitions: 4
+    ohlcv_1hr_partitions: 4
+    signals_partitions: 4
+    trades_partitions: 4
+###################################################################################################
+
+###################################################################################################
+#                                  Redis Configurations                                          #
+###################################################################################################
+  redis:
+    host: localhost
+    port: 6379
+    # password: secure_password  # Add for production
+###################################################################################################
+
+###################################################################################################
+#                                 Database Configurations                                        #
+###################################################################################################
+  database:
+    host: localhost
+    port: 5432
+    dbname: ANQuantDB
+    user: anquant  # Replace
+    password: 078692  # Replace
+###################################################################################################
+
+###################################################################################################
+#                                   Vault Configurations                                         #
+###################################################################################################
+  vault:
+    enabled: false
+    url: http://vault:8200
+    # token: your_vault_token  # Add for production
+###################################################################################################
+
+###################################################################################################
+#                                 General Configurations                                         #
+###################################################################################################
+  offline_mode: false
+###################################################################################################
+
+###################################################################################################
+#                               Historical Data Configurations                                   #
+###################################################################################################
+  historical_data:
+    timeframes: ["1min", "5min", "15min", "30min", "1hr"]  # Added 15min, 1hr for flexibility
+    lookback_candles: 60  # 60 candles for pre-fetch and startup
+###################################################################################################
+
+###################################################################################################
+#                                 Strategy Configurations                                        #
+###################################################################################################
+  strategies:
+    - name: meanhunter
+      strategy_file: config/strategies/meanhunter_strategy.yaml  # Points to detailed strategy config
+      watchlist: config/markets/india/watchlists/meanhunter.yaml
+      timeframe: "5min"  # Default/validation, overridden by strategy YAML
+      market_params:  # Market-specific conditions for reusability
+        india:
+          volume_threshold: "avg_volume_20 * 1.5"
+###################################################################################################
+
+###################################################################################################
+#                                  Market Configurations                                         #
+###################################################################################################
+  markets:
+    india:
+      watchlists:
+        master: config/markets/india/watchlists/master.yaml  # Complete stock universe (e.g., 500 or 1000 stocks)
+        meanhunter: config/markets/india/watchlists/meanhunter.yaml
+        strategy2: config/markets/india/watchlists/strategy2.yaml  # Placeholder for future expansion
+      brokers:
+        angelone:
+          symbols: config/markets/india/brokers/symbol_mappings/angelone.yaml
+          credentials: config/secrets/india/angelone_cred.yaml
+    #usa:
+    #  watchlists:
+    #    master: config/markets/usa/watchlists/master.yaml
+    #    xyzstrategy: config/markets/usa/watchlists/xyzstrategy.yaml
+    #  brokers:
+    #    interactive_brokers:
+    #      symbols: config/markets/usa/brokers/symbol_mappings/interactive_brokers.yaml
+    #      credentials: config/secrets/usa/ib_cred.yaml
+###################################################################################################
+
+###################################################################################################
+#                                   Audit Configurations                                         #
+###################################################################################################
+  audit:
+    redis_channel_prefix: "signals:audit"  # For audit trails (e.g., signals:audit:meanhunter)
+    persist_to_db: true  # Store audit trails in PostgreSQL
+    db_table: audit_trails  # Table for audit trail storage
+###################################################################################################

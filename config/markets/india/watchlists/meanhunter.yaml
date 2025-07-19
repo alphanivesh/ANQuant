@@ -1,0 +1,5 @@
+stocks:
+  - tradingsymbol: RELIANCE-EQ
+    exchange: NSE
+  - tradingsymbol: SBIN-EQ
+    exchange: NSE

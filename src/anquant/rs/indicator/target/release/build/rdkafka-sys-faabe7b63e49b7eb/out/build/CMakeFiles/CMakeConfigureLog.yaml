@@ -1,0 +1,1373 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      The system is: Windows - 10.0.26100 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: -nologo;-MD;-Brepro
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.14.14+a129329f1 for .NET Framework
+      Build started 15-07-2025 16:00:48.
+      
+      Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        Creating directory "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      VcpkgTripletSelection:
+        Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+        Using normalized configuration "Release"
+      ClCompile:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.exe
+      AppLocalFromInstalled:
+        pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+        'pwsh.exe' is not recognized as an internal or external command,
+        operable program or batch file.
+        The command "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"" exited with code 9009.
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:03.53
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/4.0.3/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: -nologo;-MD;-Brepro
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.14.14+a129329f1 for .NET Framework
+      Build started 15-07-2025 16:00:52.
+      
+      Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        Creating directory "Debug\\CompilerIdCXX.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+      VcpkgTripletSelection:
+        Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+        Using normalized configuration "Release"
+      ClCompile:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.exe
+      AppLocalFromInstalled:
+        pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+        'pwsh.exe' is not recognized as an internal or external command,
+        operable program or batch file.
+        The command "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"" exited with code 9009.
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
+      Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:02.79
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/4.0.3/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-bs6sr8"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-bs6sr8"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-bs6sr8'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4de34.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:00:55.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\cmTC_4de34.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_4de34.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\Debug\\".
+          Creating directory "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4de34.dir\\Debug\\\\" /Fd"cmTC_4de34.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\Debug\\cmTC_4de34.exe" /INCREMENTAL /ILK:"cmTC_4de34.dir\\Debug\\cmTC_4de34.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-bs6sr8/Debug/cmTC_4de34.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-bs6sr8/Debug/cmTC_4de34.lib" /MACHINE:X64  /machine:x64 cmTC_4de34.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_4de34.vcxproj -> D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\Debug\\cmTC_4de34.exe
+        AppLocalFromInstalled:
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\Debug\\cmTC_4de34.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\cmTC_4de34.write.1u.tlog" "cmTC_4de34.dir\\Debug\\vcpkg.applocal.log"
+          'pwsh.exe' is not recognized as an internal or external command,
+          operable program or batch file.
+          The command "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\Debug\\cmTC_4de34.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\cmTC_4de34.write.1u.tlog" "cmTC_4de34.dir\\Debug\\vcpkg.applocal.log"" exited with code 9009.
+          "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\Debug\\cmTC_4de34.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\cmTC_4de34.write.1u.tlog" "cmTC_4de34.dir\\Debug\\vcpkg.applocal.log"
+        FinalizeBuildStatus:
+          Deleting file "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\unsuccessfulbuild".
+          Touching "cmTC_4de34.dir\\Debug\\cmTC_4de34.tlog\\cmTC_4de34.lastbuildstate".
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bs6sr8\\cmTC_4de34.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:02.27
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:227 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:270 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Running the C compiler's linker: "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.44.35211.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-s4jf1q"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-s4jf1q"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-s4jf1q'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8b630.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:00:58.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\cmTC_8b630.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_8b630.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\Debug\\".
+          Creating directory "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8b630.dir\\Debug\\\\" /Fd"cmTC_8b630.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue  -Brepro "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\Debug\\cmTC_8b630.exe" /INCREMENTAL /ILK:"cmTC_8b630.dir\\Debug\\cmTC_8b630.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-s4jf1q/Debug/cmTC_8b630.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-s4jf1q/Debug/cmTC_8b630.lib" /MACHINE:X64  /machine:x64 cmTC_8b630.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_8b630.vcxproj -> D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\Debug\\cmTC_8b630.exe
+        AppLocalFromInstalled:
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\Debug\\cmTC_8b630.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\cmTC_8b630.write.1u.tlog" "cmTC_8b630.dir\\Debug\\vcpkg.applocal.log"
+          'pwsh.exe' is not recognized as an internal or external command,
+          operable program or batch file.
+          The command "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\Debug\\cmTC_8b630.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\cmTC_8b630.write.1u.tlog" "cmTC_8b630.dir\\Debug\\vcpkg.applocal.log"" exited with code 9009.
+          "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\Tools\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\Debug\\cmTC_8b630.exe" "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\cmTC_8b630.write.1u.tlog" "cmTC_8b630.dir\\Debug\\vcpkg.applocal.log"
+        FinalizeBuildStatus:
+          Deleting file "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\unsuccessfulbuild".
+          Touching "cmTC_8b630.dir\\Debug\\cmTC_8b630.tlog\\cmTC_8b630.lastbuildstate".
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-s4jf1q\\cmTC_8b630.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:02.53
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:227 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:270 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.44.35211.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake:112 (try_compile)"
+      - "CMakeLists.txt:37 (check_library_exists)"
+    checks:
+      - "Looking for pow in m"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-yxatv5"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-yxatv5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "WITH_HDRHISTOGRAM"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-yxatv5'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4bf04.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:02.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\cmTC_4bf04.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_4bf04.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\Debug\\".
+          Creating directory "cmTC_4bf04.dir\\Debug\\cmTC_4bf04.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_4bf04.dir\\Debug\\cmTC_4bf04.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4bf04.dir\\Debug\\cmTC_4bf04.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D CHECK_FUNCTION_EXISTS=pow /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4bf04.dir\\Debug\\\\" /Fd"cmTC_4bf04.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\Debug\\cmTC_4bf04.exe" /INCREMENTAL /ILK:"cmTC_4bf04.dir\\Debug\\cmTC_4bf04.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" m.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-yxatv5/Debug/cmTC_4bf04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-yxatv5/Debug/cmTC_4bf04.lib" /MACHINE:X64  /machine:x64 cmTC_4bf04.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'm.lib' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\cmTC_4bf04.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\cmTC_4bf04.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\cmTC_4bf04.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'm.lib' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yxatv5\\cmTC_4bf04.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:01.13
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "CMakeLists.txt:83 (try_compile)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "WITH_LIBDL"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c904b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:04.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c904b.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_c904b.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_c904b.dir\\Debug\\cmTC_c904b.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_c904b.dir\\Debug\\cmTC_c904b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_c904b.dir\\Debug\\cmTC_c904b.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c904b.dir\\Debug\\\\" /Fd"cmTC_c904b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\dlopen_test.c"
+          dlopen_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\dlopen_test.c(2,10): error C1083: Cannot open include file: 'dlfcn.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c904b.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c904b.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c904b.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\dlopen_test.c(2,10): error C1083: Cannot open include file: 'dlfcn.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c904b.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.86
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:1 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_REGEX"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8dd6c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:06.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_8dd6c.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_8dd6c.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_8dd6c.dir\\Debug\\cmTC_8dd6c.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_8dd6c.dir\\Debug\\cmTC_8dd6c.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_8dd6c.dir\\Debug\\cmTC_8dd6c.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8dd6c.dir\\Debug\\\\" /Fd"cmTC_8dd6c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\regex_test.c"
+          regex_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\regex_test.c(2,10): error C1083: Cannot open include file: 'regex.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_8dd6c.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_8dd6c.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_8dd6c.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\regex_test.c(2,10): error C1083: Cannot open include file: 'regex.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_8dd6c.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.77
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:7 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_STRNDUP"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_88c38.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:08.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_88c38.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_88c38.dir\\Debug\\cmTC_88c38.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_88c38.dir\\Debug\\cmTC_88c38.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_88c38.dir\\Debug\\cmTC_88c38.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_88c38.dir\\Debug\\\\" /Fd"cmTC_88c38.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\strndup_test.c"
+          strndup_test.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_88c38.exe" /INCREMENTAL /ILK:"cmTC_88c38.dir\\Debug\\cmTC_88c38.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_88c38.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_88c38.lib" /MACHINE:X64  /machine:x64 cmTC_88c38.dir\\Debug\\strndup_test.obj
+        strndup_test.obj : error LNK2019: unresolved external symbol strndup referenced in function main [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj]
+        D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_88c38.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          strndup_test.obj : error LNK2019: unresolved external symbol strndup referenced in function main [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj]
+          D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_88c38.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_88c38.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:01.54
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:13 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_RAND_R"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_094a7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:10.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_094a7.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_094a7.dir\\Debug\\cmTC_094a7.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_094a7.dir\\Debug\\cmTC_094a7.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_094a7.dir\\Debug\\cmTC_094a7.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_094a7.dir\\Debug\\\\" /Fd"cmTC_094a7.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\rand_r_test.c"
+          rand_r_test.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_094a7.exe" /INCREMENTAL /ILK:"cmTC_094a7.dir\\Debug\\cmTC_094a7.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_094a7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_094a7.lib" /MACHINE:X64  /machine:x64 cmTC_094a7.dir\\Debug\\rand_r_test.obj
+        rand_r_test.obj : error LNK2019: unresolved external symbol rand_r referenced in function main [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj]
+        D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_094a7.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          rand_r_test.obj : error LNK2019: unresolved external symbol rand_r referenced in function main [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj]
+          D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_094a7.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_094a7.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:01.01
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:19 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_PTHREAD_SETNAME_GNU"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1c6d7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:11.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1c6d7.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_1c6d7.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_1c6d7.dir\\Debug\\cmTC_1c6d7.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_1c6d7.dir\\Debug\\cmTC_1c6d7.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_1c6d7.dir\\Debug\\cmTC_1c6d7.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D _GNU_SOURCE /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1c6d7.dir\\Debug\\\\" /Fd"cmTC_1c6d7.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_gnu_test.c"
+          pthread_setname_gnu_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_gnu_test.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1c6d7.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1c6d7.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1c6d7.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_gnu_test.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1c6d7.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.74
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:27 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_PTHREAD_SETNAME_DARWIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_42c10.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:13.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_42c10.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_42c10.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_42c10.dir\\Debug\\cmTC_42c10.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_42c10.dir\\Debug\\cmTC_42c10.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_42c10.dir\\Debug\\cmTC_42c10.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D _DARWIN_C_SOURCE /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42c10.dir\\Debug\\\\" /Fd"cmTC_42c10.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_darwin_test.c"
+          pthread_setname_darwin_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_darwin_test.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_42c10.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_42c10.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_42c10.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_darwin_test.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_42c10.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.77
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:35 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_PTHREAD_SETNAME_FREEBSD"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1d7d0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:14.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1d7d0.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_1d7d0.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_1d7d0.dir\\Debug\\cmTC_1d7d0.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_1d7d0.dir\\Debug\\cmTC_1d7d0.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_1d7d0.dir\\Debug\\cmTC_1d7d0.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1d7d0.dir\\Debug\\\\" /Fd"cmTC_1d7d0.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_freebsd_test.c"
+          pthread_setname_freebsd_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_freebsd_test.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1d7d0.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1d7d0.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1d7d0.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\pthread_setname_freebsd_test.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_1d7d0.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.75
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:47 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "_atomics_32"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2e6f7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:15.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_2e6f7.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_2e6f7.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_2e6f7.dir\\Debug\\cmTC_2e6f7.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_2e6f7.dir\\Debug\\cmTC_2e6f7.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_2e6f7.dir\\Debug\\cmTC_2e6f7.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2e6f7.dir\\Debug\\\\" /Fd"cmTC_2e6f7.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_32_test.c"
+          atomic_32_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_32_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_2e6f7.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_2e6f7.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_2e6f7.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_32_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_2e6f7.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.70
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:56 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "_atomics_32_lib"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e6f39.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:16.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_e6f39.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_e6f39.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_e6f39.dir\\Debug\\cmTC_e6f39.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_e6f39.dir\\Debug\\cmTC_e6f39.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e6f39.dir\\Debug\\cmTC_e6f39.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e6f39.dir\\Debug\\\\" /Fd"cmTC_e6f39.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_32_test.c"
+          atomic_32_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_32_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_e6f39.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_e6f39.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_e6f39.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_32_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_e6f39.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.67
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:66 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_ATOMICS_32_SYNC"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4e389.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:18.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_4e389.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_4e389.dir\\Debug\\cmTC_4e389.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_4e389.dir\\Debug\\cmTC_4e389.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4e389.dir\\Debug\\cmTC_4e389.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4e389.dir\\Debug\\\\" /Fd"cmTC_4e389.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\sync_32_test.c"
+          sync_32_test.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_4e389.exe" /INCREMENTAL /ILK:"cmTC_4e389.dir\\Debug\\cmTC_4e389.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_4e389.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_4e389.lib" /MACHINE:X64  /machine:x64 cmTC_4e389.dir\\Debug\\sync_32_test.obj
+        sync_32_test.obj : error LNK2019: unresolved external symbol __sync_add_and_fetch referenced in function foo [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj]
+        D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_4e389.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          sync_32_test.obj : error LNK2019: unresolved external symbol __sync_add_and_fetch referenced in function foo [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj]
+          D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_4e389.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_4e389.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.93
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:79 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "_atomics_64"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ea643.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:19.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_ea643.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_ea643.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_ea643.dir\\Debug\\cmTC_ea643.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_ea643.dir\\Debug\\cmTC_ea643.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_ea643.dir\\Debug\\cmTC_ea643.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ea643.dir\\Debug\\\\" /Fd"cmTC_ea643.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_64_test.c"
+          atomic_64_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_64_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_ea643.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_ea643.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_ea643.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_64_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_ea643.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.72
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:88 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "_atomics_64_lib"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3ccfd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:20.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_3ccfd.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_3ccfd.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_3ccfd.dir\\Debug\\cmTC_3ccfd.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_3ccfd.dir\\Debug\\cmTC_3ccfd.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_3ccfd.dir\\Debug\\cmTC_3ccfd.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3ccfd.dir\\Debug\\\\" /Fd"cmTC_3ccfd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_64_test.c"
+          atomic_64_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_64_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_3ccfd.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_3ccfd.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_3ccfd.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\atomic_64_test.c(4,42): error C2065: '__ATOMIC_SEQ_CST': undeclared identifier [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_3ccfd.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.75
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:98 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "HAVE_ATOMICS_64_SYNC"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_34a31.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:21.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_34a31.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_34a31.dir\\Debug\\cmTC_34a31.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_34a31.dir\\Debug\\cmTC_34a31.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_34a31.dir\\Debug\\cmTC_34a31.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_34a31.dir\\Debug\\\\" /Fd"cmTC_34a31.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\sync_64_test.c"
+          sync_64_test.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_34a31.exe" /INCREMENTAL /ILK:"cmTC_34a31.dir\\Debug\\cmTC_34a31.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_34a31.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp/Debug/cmTC_34a31.lib" /MACHINE:X64  /machine:x64 cmTC_34a31.dir\\Debug\\sync_64_test.obj
+        sync_64_test.obj : error LNK2019: unresolved external symbol __sync_add_and_fetch referenced in function foo [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj]
+        D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_34a31.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          sync_64_test.obj : error LNK2019: unresolved external symbol __sync_add_and_fetch referenced in function foo [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj]
+          D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_34a31.exe : fatal error LNK1120: 1 unresolved externals [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_34a31.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.97
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:108 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "WITH_C11THREADS"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c6a69.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:23.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_c6a69.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_c6a69.dir\\Debug\\cmTC_c6a69.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_c6a69.dir\\Debug\\cmTC_c6a69.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_c6a69.dir\\Debug\\cmTC_c6a69.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c6a69.dir\\Debug\\\\" /Fd"cmTC_c6a69.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\c11threads_test.c"
+          c11threads_test.c
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(101,1): error C2054: expected '(' to follow '_Noreturn' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(101,24): error C2085: 'thrd_exit': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(104,13): error C2085: 'thrd_join': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(105,13): error C2085: '_thrd_sleep32': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(107,13): error C2085: '_thrd_sleep64': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(116,27): error C2085: 'thrd_sleep': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(116,99): error C2143: syntax error: missing ';' before '{' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          (compiling source file 'C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/try_compile/c11threads_test.c')
+          
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(101,1): error C2054: expected '(' to follow '_Noreturn' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(101,24): error C2085: 'thrd_exit': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(104,13): error C2085: 'thrd_join': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(105,13): error C2085: '_thrd_sleep32': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(107,13): error C2085: '_thrd_sleep64': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(116,27): error C2085: 'thrd_sleep': not in formal parameter list [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\include\\threads.h(116,99): error C2143: syntax error: missing ';' before '{' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_c6a69.vcxproj]
+        
+            0 Warning(s)
+            7 Error(s)
+        
+        Time Elapsed 00:00:00.74
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "packaging/cmake/try_compile/rdkafka_setup.cmake:117 (try_compile)"
+      - "CMakeLists.txt:204 (include)"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+    buildResult:
+      variable: "WITH_CRC32C_HW"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/try_compile/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9eeda.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:24.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_9eeda.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_9eeda.dir\\Debug\\cmTC_9eeda.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_9eeda.dir\\Debug\\cmTC_9eeda.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_9eeda.dir\\Debug\\cmTC_9eeda.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9eeda.dir\\Debug\\\\" /Fd"cmTC_9eeda.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c"
+          crc32c_hw_test.c
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c(10,25): error C2143: syntax error: missing ')' before ':' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj]
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c(14,13): error C2143: syntax error: missing ')' before ':' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj]
+        C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c(22,13): error C2143: syntax error: missing ')' before ':' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c(10,25): error C2143: syntax error: missing ')' before ':' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj]
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c(14,13): error C2143: syntax error: missing ')' before ':' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj]
+          C:\\Users\\hiits\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rdkafka-sys-4.9.0+2.10.0\\librdkafka\\packaging\\cmake\\try_compile\\crc32c_hw_test.c(22,13): error C2143: syntax error: missing ')' before ':' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\try_compile\\CMakeFiles\\CMakeTmp\\cmTC_9eeda.vcxproj]
+        
+            0 Warning(s)
+            3 Error(s)
+        
+        Time Elapsed 00:00:00.71
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake:97 (check_c_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "src/CMakeLists.txt:255 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-pktsle"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-pktsle"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-pktsle'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4070c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:25.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\cmTC_4070c.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_4070c.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\Debug\\".
+          Creating directory "cmTC_4070c.dir\\Debug\\cmTC_4070c.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_4070c.dir\\Debug\\cmTC_4070c.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4070c.dir\\Debug\\cmTC_4070c.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4070c.dir\\Debug\\\\" /Fd"cmTC_4070c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\src.c"
+          src.c
+        D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\cmTC_4070c.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\cmTC_4070c.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\cmTC_4070c.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pktsle\\cmTC_4070c.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.68
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake:112 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake:112 (check_library_exists)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "src/CMakeLists.txt:255 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-qjbodk"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-qjbodk"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-qjbodk'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cce9d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:26.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\cmTC_cce9d.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_cce9d.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\Debug\\".
+          Creating directory "cmTC_cce9d.dir\\Debug\\cmTC_cce9d.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_cce9d.dir\\Debug\\cmTC_cce9d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_cce9d.dir\\Debug\\cmTC_cce9d.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cce9d.dir\\Debug\\\\" /Fd"cmTC_cce9d.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\Debug\\cmTC_cce9d.exe" /INCREMENTAL /ILK:"cmTC_cce9d.dir\\Debug\\cmTC_cce9d.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-qjbodk/Debug/cmTC_cce9d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-qjbodk/Debug/cmTC_cce9d.lib" /MACHINE:X64  /machine:x64 cmTC_cce9d.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\cmTC_cce9d.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\cmTC_cce9d.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\cmTC_cce9d.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjbodk\\cmTC_cce9d.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.84
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake:112 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake:112 (check_library_exists)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "src/CMakeLists.txt:255 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-83u6f7"
+      binary: "D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-83u6f7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -nologo -MD -Brepro"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hiits/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.9.0+2.10.0/librdkafka/packaging/cmake/Modules/"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-83u6f7'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e1786.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.14+a129329f1 for .NET Framework
+        Build started 15-07-2025 16:01:28.
+        
+        Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\cmTC_e1786.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_e1786.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\Debug\\".
+          Creating directory "cmTC_e1786.dir\\Debug\\cmTC_e1786.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_e1786.dir\\Debug\\cmTC_e1786.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e1786.dir\\Debug\\cmTC_e1786.tlog\\unsuccessfulbuild".
+        VcpkgTripletSelection:
+          Using triplet "x64-windows" from "E:\\Tools\\vcpkg\\installed\\x64-windows\\"
+          Using normalized configuration "Debug"
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /I"E:\\Tools\\vcpkg\\installed\\x64-windows\\include" /Zi /nologo /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e1786.dir\\Debug\\\\" /Fd"cmTC_e1786.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -Brepro "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\Debug\\cmTC_e1786.exe" /INCREMENTAL /ILK:"cmTC_e1786.dir\\Debug\\cmTC_e1786.ilk" /NOLOGO /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\Tools\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-83u6f7/Debug/cmTC_e1786.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/AlphaNivesh/ANQuant/src/rs/indicator/target/release/build/rdkafka-sys-faabe7b63e49b7eb/out/build/CMakeFiles/CMakeScratch/TryCompile-83u6f7/Debug/cmTC_e1786.lib" /MACHINE:X64  /machine:x64 cmTC_e1786.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\cmTC_e1786.vcxproj]
+        Done Building Project "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\cmTC_e1786.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\cmTC_e1786.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [D:\\AlphaNivesh\\ANQuant\\src\\rs\\indicator\\target\\release\\build\\rdkafka-sys-faabe7b63e49b7eb\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-83u6f7\\cmTC_e1786.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.83
+        
+      exitCode: 1
+...

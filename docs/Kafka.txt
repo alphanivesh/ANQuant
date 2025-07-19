@@ -1,0 +1,56 @@
+Role of Kafka in ANQuant
+    Event Streaming: Streams ticks (nse_ticks), OHLCV (ohlcv_1min), signals (signals), and trades (trades) across components.
+    Scalability    : Uses partitioning (e.g., 4 partitions for nse_ticks) to handle high-frequency data (e.g., 100 ticks/second
+                     for stocks in meanhunter.yaml).
+    Fault Tolerance : Ensures no data loss via replication.
+
+----------------------------------------------------------------------------------------------
+                    Running Kafka server locally (localhost:9092)
+----------------------------------------------------------------------------------------------
+
+Step 1 : switch to D:\Softwares\kafka_2.13-3.9.1
+    CD D:\Softwares\kafka_2.13-3.9.1
+
+Step 2 : Zookeeper start
+    java -cp ".\libs\*;.\*;.\config" org.apache.zookeeper.server.quorum.QuorumPeerMain .\config\zookeeper.properties
+
+Step 3 : Run the Kafka server manually via Java:
+    java -cp ".\libs\*;.\*;.\config" kafka.Kafka .\config\server.properties
+
+
+----------------------------------------------------------------------------------------------
+                    Running Kafka server using Docker
+----------------------------------------------------------------------------------------------
+docker run -d -p 2181:2181 -p 9092:9092 confluentinc/cp-kafka
+.\kafka-topics.bat --create --topic nse_ticks --bootstrap-server localhost:9092 --partitions 8 --replication-factor 1
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------
+                            Running Kafka UI locally
+----------------------------------------------------------------------------------------------
+
+Step 1 : Kafka UI is located into the following custom folder
+    cd D:\Softwares\kafka_2.13-3.9.1\kafka-ui-custom
+
+Step 2 : manually create application.yaml in the above location where the Kafka UI jar is present.
+            auth:
+                type: DISABLED
+                kafka:
+                  clusters:
+                    - name: local
+                      bootstrapServers: localhost:9092
+                      properties:
+                        security.protocol: PLAINTEXT
+
+
+Step 3 : Run the jar file
+    cd D:\Softwares\kafka_2.13-3.9.1\kafka-ui-custom
+    java -jar kafka-ui-api-v0.7.2.jar --spring.config.location=application.yaml
+
+Step 4 : Open the brower UI
+            http://localhost:8080
+

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/AlphaNivesh/ANQuant/src/rs/market_data/target/debug/build/rdkafka-sys-02a904115837abf9/out/build/cmake_install.cmake",
+		"D:/AlphaNivesh/ANQuant/src/rs/market_data/target/debug/build/rdkafka-sys-02a904115837abf9/out/build/src/cmake_install.cmake",
+		"D:/AlphaNivesh/ANQuant/src/rs/market_data/target/debug/build/rdkafka-sys-02a904115837abf9/out/build/src-cpp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

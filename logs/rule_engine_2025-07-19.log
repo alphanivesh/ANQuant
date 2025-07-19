@@ -1,0 +1,5 @@
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Added file handler for D:\AlphaNivesh\ANQuant\logs\rule_engine_2025-07-19.log, handler ID: 15
+2025-07-19 20:18:39 | INFO | src.anquant.py.util.logging | Logging initialized for rule_engine (type: strategy, file: D:\AlphaNivesh\ANQuant\logs\rule_engine_2025-07-19.log)
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Using config path: D:\AlphaNivesh\ANQuant\config/config.yaml, log dir: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Creating log directory: D:\AlphaNivesh\ANQuant\logs
+2025-07-19 20:18:39 | DEBUG | src.anquant.py.util.logging | Log file path: D:\AlphaNivesh\ANQuant\logs\strategy_manager_2025-07-19.log

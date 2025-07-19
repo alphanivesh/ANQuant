@@ -1,0 +1,41 @@
+name: meanhunter
+timeframe: 5min  # Switch to 1min, 15min, 30min, 1hr as needed
+watchlist:
+  india: config/markets/india/watchlists/meanhunter.yaml
+threshold: 0.75
+indicators:
+  - type: bollinger_bands
+    name: bb
+    period: 20
+    std: 2.0
+  - type: rsi
+    name: rsi
+    period: 14
+entry_rules:
+  - condition: "close < bb_lower"
+    weight: 0.6
+  - condition: "rsi < 30"
+    weight: 0.2
+  - condition: "volume > volume_threshold"  # References market_params from config.yaml
+    weight: 0.2
+exit_rules:
+  - condition: "close > bb_upper"
+    weight: 0.8
+stop_loss:
+  type: multi
+  rules:
+    - type: fixed
+      value: "2%"
+target:
+  type: multi
+  rules:
+    - type: fixed
+      value: "5%"
+      partial_exit: "50%"
+      id: "partial_1"
+trade_management:
+  breakeven:
+    trigger: 2.0
+market_params:
+  india:
+    volume_threshold: "avg_volume_20 * 1.5"  # Fallback if not in config.yaml
